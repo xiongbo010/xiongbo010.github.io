@@ -27,7 +27,7 @@
 
               <!-- About -->
               <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">about
+                <a class="nav-link" href="{{ '/' | relative_url }}">About
                   {%- if page.title == "about" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -45,7 +45,7 @@
               {%- endif %}
 
               <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
+              {%- assign sorted_pages = site.pages -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -76,6 +76,11 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              
+              <!-- CV link -->
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link" href="{{ '/assets/pdf/emanuele_rossi_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+              </li>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
