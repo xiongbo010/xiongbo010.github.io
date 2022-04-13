@@ -4,8 +4,14 @@ permalink: /presentations/
 title: Presentations
 subtitle: Collection of some presentations and talks I have given in the past.
 nav: true
+sort_menu: 2
 ---
 ### Talks
+##### 2022
+- **2022/03/01**: "*Learning on Graphs with Missing Node Features*" at the [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group) \[[Slides](https://docs.google.com/presentation/d/11dAeJRalTI7K1YAxMNz_yElZ0lVO5Bw7n0LBqSd-OUY/edit#slide=id.g1017b3d77ca_0_0)\]\[[Video](https://www.youtube.com/watch?v=xe5A-xQTBdM)\]
+- **2022/02/24**: "*Learning on Graphs with Missing Node Features*" at the [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/)
+of the University of Oxford
+
 ##### 2021
 - **2021/11/23**: "*Learning on Graphs with Missing Node Features*" at University of Cambridge [AI Research Group Talks](http://talks.cam.ac.uk/talk/index/165859)
 - **2021/11/17**: "*Graph Neural Networks with Almost No Features*" at the [Toronto Machine Learning Summit](https://www.torontomachinelearning.com/)

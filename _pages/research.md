@@ -4,6 +4,7 @@ permalink: /research/
 title: Research
 years: [2021, 2020, 2019]
 nav: true
+sort_menu: 1
 ---
 My research interests span a wide array of topics around graph neural networks. Rather than focusing on a particular niche, I like to constantly look for new interesting and impactful problems. Some of the problems in graph neural networks that have caught my interest so far are:
 - **Scalability**: How do we scale GNNs to billion nodes graphs?

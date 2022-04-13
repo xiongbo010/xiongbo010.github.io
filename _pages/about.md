@@ -2,11 +2,11 @@
 layout: about
 permalink: /
 title: <strong>Emanuele</strong> Rossi
-subtitle: Twitter Cortex. emanuele dot rossi1909 at gmail.com
+subtitle: Graph Machine Learning @ Twitter Cortex
 
 profile:
   align: right
-  image: carhartt_circle.png
+  image: portrait_color_round.png
   address: >
     <p> </p>
     <p> </p>
