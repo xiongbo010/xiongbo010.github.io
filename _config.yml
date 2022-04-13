@@ -62,7 +62,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+#rss_icon: true
 
 contact_note: >
   Please reach out to me by email if you have any question.
