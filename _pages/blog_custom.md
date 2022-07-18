@@ -7,6 +7,7 @@ sort_menu: 3
 ---
 
 ##### 2022
+- **2022/06**: "*Accelerating and scaling Temporal Graph Networks on the Graphcore IPU*", co-authored with Michael Bronstein and Daniel Justus. Published on [Medium](https://towardsdatascience.com/accelerating-and-scaling-temporal-graph-networks-on-the-graphcore-ipu-c15ac309b765) and the [GraphCore Blog](https://www.graphcore.ai/posts/accelerating-and-scaling-temporal-graph-networks-on-the-graphcore-ipu).
 - **2022/02**: "*Graph Machine Learning with Missing Node Features*", co-authored with Michael Bronstein and Maria Gorinova. Published on [Medium](https://towardsdatascience.com/learning-on-graphs-with-missing-features-dd34be61b06) and the [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features).
 
 ##### 2020

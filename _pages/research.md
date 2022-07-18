@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-years: [2021, 2020, 2019]
+years: [2022, 2021, 2020, 2019]
 nav: true
 sort_menu: 1
 ---
@@ -10,7 +10,6 @@ My research interests span a wide array of topics around graph neural networks. 
 - **Scalability**: How do we scale GNNs to billion nodes graphs?
 - **Dynamic Graphs**: How do we learn on graphs that change over time? 
 - **Missing Node Features**: How do apply GNNs to graphs where we only observe only a subset of features for each node (which is almost always the case in practice)?
-- **Low Homophily Graphs**: How do we design GNNs that work on graphs with low label homophily (where neighbors tend to have different labels)
 
 ### Publications
 Below is a list of my publications in reversed chronological order. 

@@ -4,48 +4,64 @@
 
 "Monti":
   - firstname: ["Federico", "F."]
-    url: https://scholar.google.it/citations?user=NUdNFucAAAAJ&hl=it
+    url: https://scholar.google.it/citations?user=NUdNFucAAAAJ&hl=en
 
 "Liò":
   - firstname: ["Pietro", "P."]
     url: https://scholar.google.it/citations?user=3YrWf7EAAAAJ&hl=en
 
-"Chamberlain": 
+"Chamberlain":
   - firstname: ["Benjamin", "Ben", "B."]
     url: https://scholar.google.co.uk/citations?user=Tr8LSOEAAAAJ&hl=en
 
-"Eynard": 
+"Eynard":
   - firstname: ["Davide", "D."]
     url: https://scholar.google.com/citations?user=wJdbXnYAAAAJ&hl=en
 
-"Frasca": 
+"Frasca":
   - firstname: ["Fabrizio"]
     url: https://scholar.google.com/citations?user=PT2CDA4AAAAJ&hl=en
 
-"Shiebler": 
+"Shiebler":
   - firstname: ["Dan"]
     url: https://scholar.google.com/citations?user=J1nlG6EAAAAJ&hl=en
 
-"Gorinova": 
+"Gorinova":
   - firstname: ["Maria", "Maria I."]
     url: https://scholar.google.com/citations?user=Av_CKFAAAAAJ&hl=en
 
-"Webb": 
+"Webb":
   - firstname: ["Stefan", "Stefan D."]
-    url: https://scholar.google.com/citations?user=71p7DlAAAAAJ&hl=fil
+    url: https://scholar.google.com/citations?user=71p7DlAAAAAJ&hl=en
 
-"Sedhain": 
+"Sedhain":
   - firstname: ["Suvash"]
     url: https://scholar.google.com/citations?user=z_hDjNYAAAAJ&hl=en
 
-"Rowbottom": 
+"Rowbottom":
   - firstname: ["James"]
     url: https://scholar.google.com/citations?user=z_hDjNYAAAAJ&hl=en
 
-"Kenlay": 
+"Kenlay":
   - firstname: ["Henry"]
     url: https://scholar.google.co.uk/citations?user=3xBEuKUAAAAJ&hl=en
 
-"Dong": 
+"Dong":
   - firstname: ["Xiaowen"]
     url: https://scholar.google.co.uk/citations?user=_8tUq8kAAAAJ&hl=en
+
+"Leng":
+  - firstname: ["Yan"]
+    url: https://scholar.google.com/citations?user=WfU3qjQAAAAJ&hl=en
+
+"Mutti":
+  - firstname: ["Mirco"]
+    url: https://scholar.google.it/citations?user=GlLkJ9UAAAAJ&hl=en
+
+"Santi":
+  - firstname: ["Riccardo De"]
+    url: https://scholar.google.com/citations?hl=en&user=K7qyOj0AAAAJ&hl=en
+
+"Restelli":
+  - firstname: ["Marcello"]
+    url: https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en
