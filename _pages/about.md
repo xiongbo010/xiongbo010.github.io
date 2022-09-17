@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: <strong>Emanuele</strong> Rossi
-subtitle: Graph Machine Learning @ Twitter Cortex
+title: <strong>Bo</strong> Xiong
+subtitle: IMPRS-IS PhD Candidate @ University of Stuttgart
 
 profile:
   align: right
-  image: pic_green_tshirt_circle.png
+  image: boxiong.png
   address: >
     <p> </p>
     <p> </p>
@@ -19,8 +19,8 @@ news: true
 social: true
 ---
 
-I am a Machine Learning Researcher at Twitter, as well as a PhD student at Imperial College London, working on Graph Neural Networks and supervised by [Prof. Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein). Before joining Twitter I was working at Fabula AI, which was then [acquired by Twitter](https://techcrunch.com/2019/06/03/twitter-bags-deep-learning-talent-behind-london-startup-fabula-ai/) in June 2019. Previously, I completed an MPhil at the University of Cambridge and a BEng at Imperial College London, both in Computer Science. 
+I am a computer science Ph.D. candidate at Intl. Max Plank Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), as well as a Marie Curie Early Stage Researcher at Department of Computer Science, University of Stuttgart, Germany, under the supervision of [Prof. Steffen Staab](https://www.southampton.ac.uk/people/5xf8n2/professor-steffen-staab). 
+Before this, I obtained my BEng and MEng degrees from Beijing Jiaotong University, Beijing, China, where I did several wonderful internships at [Baidu Inc.](http://research.baidu.com/), [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
 
-I like to focus on [research](../research/) that is directly applicable to the real-world. This is why I prefer solutions which are simple (to understand and implement) and extremely scalable. For an example, see our [SIGN model](https://towardsdatascience.com/simple-scalable-graph-neural-networks-7eb04f366d07), which is currently used in production at [Airbnb](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee) to improve their trust & safety service predictions.
-
-I am also the co-founder of [LeadTheFuture](https://leadthefuture.tech/), a non-profit mentoring organization founded in 2018, and the largest merit-based STEM community in Italy. Today LeadTheFuture counts more than [150 talented mentors](https://leadthefuture.tech/i-nostri-mentor/) (engineers, researchers and entrepreneurs) and over 500 selected mentees. As a recognition for our work, my co-founders and I have been selected as part of [Forbes 100 under 30 List Italy](https://forbes.it/classifiche-forbes/under-30/forbes-under-30-education-2020-i-migliori-giovani-talenti-italiani/) in the Education category.
+My research interests focus on machine learning on relational data and geometric deep learning. Currently, I am interested in developing geometrically/mathematically inspired models for representation learning over relational/structured data, including knowledge graph embeddings and graph neural networks.
+                
