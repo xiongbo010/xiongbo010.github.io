@@ -195,9 +195,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: Bo
-  first_name: Xiong
+  last_name: Xiong
+  first_name: [Bo, B.]
 
   style: apa
   locale: en
