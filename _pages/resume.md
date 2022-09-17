@@ -17,7 +17,7 @@ sort_menu: 2
 - **2017/07-2018/01**: Data Mining Intern, Baidu Inc.
 
 
-### Program Committee/Reviwer
+### Program Committee/Reviewer
 - **2023**: AAAI'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
