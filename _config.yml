@@ -65,7 +65,7 @@ stackoverflow_id: #your stackoverflow id
 #rss_icon: true
 
 contact_note: >
-  Please reach out to me by email if you have any question. Thanks [Emanuele Rossi](https://emanuelerossi.co.uk/) for the template.
+  Please reach out to me by email if you have any question. Thanks <a href="https://emanuelerossi.co.uk/" target=”_blank”>Emanuele Rossi</a> for the template.
 
 google_analytics: UA-99987221-2 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
