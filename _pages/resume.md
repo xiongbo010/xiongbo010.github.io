@@ -33,6 +33,7 @@ sort_menu: 2
 - Mr. Leon Matzner, bachelor student in USTUTT
 
 ### Selected Awards
-- **2022**: Outstanding Graduate Awards (4/125), BJTU
+- **2022**: Best Student Paper Award, ISWC'22
+- **2020**: Outstanding Graduate Awards (4/125), BJTU
 - **2019**: China National Scholarship (1/117)
 - **2017**: Honorable Mention, The Mathematical Contest in Modeling (MCM/ICM)
