@@ -6,7 +6,9 @@ years: [2022]
 nav: true
 sort_menu: 1
 ---
-My research interests focus on machine learning on relational data
+My research interests focus on machine learning on relational data. In particular, geometric representation learning over relational & structured data.
+
+**Geometric representention learning** maps relational data into low-dimensional geometric space that respects the underlying symbolic semantics,logical rules and structural/relational patterns, etc. Prior logical/symbolic knowledge can be then injected into the geometric embeddings to enhance machine learning models.
 
 ### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
 
