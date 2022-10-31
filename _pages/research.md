@@ -8,7 +8,7 @@ sort_menu: 1
 ---
 I worked on geometric representation learning over relational & structured data.
 
-**Geometric representention learning** maps relational data into low-dimensional geometric space that respects the underlying symbolic semantics,logical rules and structural/relational patterns, etc. 
+**Geometric representention learning** maps relational data into a low-dimensional geometric space that respects the underlying symbolic semantics,logical rules and structural/relational patterns, etc. 
 
 **Machine learning with prior symbolic knowledge**: Prior symbolic knowledge can be **geometrically** injected into the  represententions to enhance the machine learning models.
 
