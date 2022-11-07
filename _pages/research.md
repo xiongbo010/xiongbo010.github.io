@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-years: [2020,2021,2022]
+years: [2022]
 nav: true
 sort_menu: 1
 ---
@@ -13,7 +13,7 @@ I worked on geometric representation learning over relational & structured data.
 **Machine learning with prior symbolic knowledge**: Prior symbolic knowledge can be geometrically injected into the represententions to enhance the inference of machine learning models. Prominent examples include structured/hierarchical multilabel prediction and ontology-enhanced machine learning. 
 
 
-### Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
+### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
 
 <div class="publications">
 
