@@ -8,7 +8,7 @@ sort_menu: 1
 ---
 I worked on geometric representation learning over relational & structured data. In particular, I am working on the following two directions.
 
-**Geometric representention learning** maps relational data into a low-dimensional geometric space where the underlying symbolic semantics, logical rules/constraints, relational and structural patterns, etc. are respected in the form of geometric interpretations. e.g., hierarchical patterns can be preserved in hyperbolic space.
+**Geometric representention learning** incorporates geometric inductive biases into the representation space such that the underlying symbolic semantics, logical rules/constraints, relational and structural patterns in knowledge graphs, etc. are respected in the form of geometric interpretations. e.g., hierarchical patterns can be preserved in hyperbolic space.
 
 **Machine learning with prior symbolic knowledge**: Prior symbolic knowledge can be geometrically injected into the represententions to enhance the inference of machine learning models. Prominent examples include structured/hierarchical multilabel prediction and ontology-enhanced machine learning. 
 
