@@ -24,8 +24,8 @@ I am a computer science Ph.D. candidate at Intl. Max Plank Research School for I
 My research centres on machine learning on relational & structured data. In particular, I am interested in developing geometrically/mathematically inspired models for representation learning over relational data.
 
 - ML on relational data (e.g., knowledge graphs)
-- Geometric inductive biases (e.g., Riemannian geometry)
 - ML with prior symbolic knowledge
+- Geometric inductive biases (e.g., hyperbolic geometry)
 
 
 
