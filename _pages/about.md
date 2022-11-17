@@ -29,5 +29,3 @@ My research centres on machine learning on relational data. In particular, I am 
 
 
 
-
-                
