@@ -6,7 +6,7 @@ subtitle: IMPRS-IS PhD Candidate @ University of Stuttgart
 
 profile:
   align: right
-  image: boxiong.png
+  image: boxiong.jpeg
   address: >
     <p> </p>
     <p> </p>

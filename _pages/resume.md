@@ -17,10 +17,15 @@ sort_menu: 2
 - **2017/07-2018/01**: Data Mining Intern, Baidu Inc.
 
 
-### Program Committee/Reviewer
-- **2023**: AAAI'23
+### PC Member/Reviewer
+- **Journal**: IEEE Transactions on Neural Networks and Learning Systems
+- **2023**: AAAI'23, WWW'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
+
+### Invited Talks
+- **2022.11**: Research Seminar at Emory University, Georgia, USA.
+- **2022.10**: SoftKR Seminar at VU Amsterdam, Amsterdam, The Netherlands. 
 
 ### Teaching
 - **2022**: Teaching Assistant, Geometric Deep Learning, USTUTT
@@ -29,6 +34,7 @@ sort_menu: 2
 
 
 ### Co-supervision
+- Mr. Akshat Gupta, master student in USTUTT
 - Ms. Yi Wang, master student in USTUTT (now PhD student in USTUTT)
 - Mr. Leon Matzner, bachelor student in USTUTT
 
