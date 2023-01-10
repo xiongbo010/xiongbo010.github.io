@@ -16,16 +16,15 @@ sort_menu: 2
 - **2018/01-2019/06**: Research Assistant,  Tsinghua University
 - **2017/07-2018/01**: Data Mining Intern, Baidu Inc.
 
-
 ### PC Member/Reviewer
-- **Journal**: IEEE Transactions on Neural Networks and Learning Systems
+- **Journal**: TNNLS
 - **2023**: AAAI'23, WWW'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
 ### Invited Talks
 - **2022.11**: Research Seminar at Emory University, Georgia, USA.
-- **2022.10**: SoftKR Seminar at VU Amsterdam, Amsterdam, The Netherlands. 
+- **2022.10**: Research Seminar at VU Amsterdam, Amsterdam, The Netherlands. 
 
 ### Teaching
 - **2022**: Teaching Assistant, Geometric Deep Learning, USTUTT
