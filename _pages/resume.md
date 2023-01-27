@@ -9,7 +9,7 @@ sort_menu: 2
 ### Experience
 
 - **2021/02-Present**: PhD student, Intl. Max Plank Research School for Intelligent Systems
-- **2020/09-Present**: Marie Curie Early Stage Researcher at University of Stuttgart, Germany
+- **2020/09-Present**: Marie Curie Early Stage Researcher, University of Stuttgart, Germany
 - **2022/04-2022/08**: Visiting Researcher, Maastricht University, hosted by [Prof. Michel Dumontier](https://scholar.google.com/citations?user=vyofzOcAAAAJ&hl=en)
 - **2020/04-2020/09**: Research Intern, Huawei Noah's Ark Lab
 - **2020/04-2020/09**: Research Intern, Microsoft Research Asia, hosted by [Dr. Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/)
@@ -18,7 +18,7 @@ sort_menu: 2
 
 ### PC Member/Reviewer
 - **Journal**: TNNLS
-- **2023**: AAAI'23, WWW'23
+- **2023**: AAAI'23, WWW'23, IJCAI'23, ICML'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
