@@ -23,11 +23,10 @@ I am a computer science Ph.D. candidate at Intl. Max Plank Research School for I
 I received my B.Sc. and M.Eng. degrees from [Beijing Jiaotong University](http://en.njtu.edu.cn/), Beijing, China.  
 
 My research centres on machine learning on relational and graph-structured data. 
-In particular, I am interested in developing geometric methods for relational knowledge representation and reasoning.
-
+<!-- In particular, I am interested in developing geometric methods for relational knowledge representation.
 - ML on relational/graph-structured data 
 - Learning with symbolic/relational knowledge
-- Geometric inductive biases (e.g., hyperbolic geometry)
+- Geometric inductive biases (e.g., hyperbolic geometry) -->
 
 
 
