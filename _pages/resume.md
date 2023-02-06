@@ -13,7 +13,7 @@ sort_menu: 2
 - **2022/04-2022/08**: Visiting Researcher, Maastricht University, hosted by [Prof. Michel Dumontier](https://scholar.google.com/citations?user=vyofzOcAAAAJ&hl=en)
 - **2020/04-2020/09**: Research Intern, Huawei Noah's Ark Lab
 - **2019/07-2020/01**: Research Intern, Microsoft Research Asia, hosted by [Dr. Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/)
-- **2018/01-2019/06**: Research Assistant,  Tsinghua University
+- **2018/01-2019/06**: Research Assistant, Tsinghua University
 - **2017/07-2018/01**: Data Mining Intern, Baidu Inc.
 
 ### PC Member/Reviewer
