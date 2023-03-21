@@ -18,7 +18,7 @@ sort_menu: 2
 
 ### PC Member/Reviewer
 - **Journal**: TNNLS
-- **2023**: AAAI'23, WWW'23, IJCAI'23, ICML'23
+- **2023**: AAAI'23, WWW'23, IJCAI'23, ICML'23, ACL'23, IJCNN'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
