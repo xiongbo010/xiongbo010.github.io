@@ -5,5 +5,5 @@ inline: true
 ---
 
 Our paper in [ISWC'22]() won the 
-<span style="color:red">
-**Best Student Paper Award**</span> 
+<font color='red'>
+**Best Student Paper Award**</font>
