@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Bo</strong> Xiong
-subtitle: PhD candidate @ University of Stuttgart
+subtitle: IMPRS-IS PhD candidate @ University of Stuttgart
 
 profile:
   align: right
