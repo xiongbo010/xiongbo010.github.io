@@ -6,8 +6,7 @@ years: [2023,2022,2020]
 nav: true
 sort_menu: 1
 ---
-<!-- I worked on geometric representation learning over relational & structured data. In particular, I am working on the following two directions. -->
-
+<!-- I worked on geometric representation learning over relational & graph-structured data.  -->
 <!-- 
 **Geometric representention learning** incorporates geometric inductive biases into the representation space such that the underlying symbolic semantics, logical rules/constraints, relational and structural patterns in knowledge graphs, etc. are respected in the form of geometric interpretations. e.g., hierarchical patterns can be preserved in hyperbolic space.
 
