@@ -4,4 +4,4 @@ date: 2023-05-03 07:59:00-0400
 inline: true
 ---
 
-Two papers on [Knowledge Graph Embeddings]() got accepted to [ACL'23](https://2023.aclweb.org/)
+Two papers got accepted to [ACL'23](https://2023.aclweb.org/)
