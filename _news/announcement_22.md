@@ -5,4 +5,4 @@ inline: true
 ---
 
 <b><font color='orange'>[Award]</font><b/> 
-Our paper received the [University of Stuttgart Publication Prize](https://www.simtech.uni-stuttgart.de/press/Universitaet-Stuttgart-vergibt-Publikationspreise/) 🎉
+Our paper received the [University of Stuttgart Publication Prize](https://www.simtech.uni-stuttgart.de/press/Universitaet-Stuttgart-vergibt-Publikationspreise/) 

@@ -5,4 +5,4 @@ inline: true
 ---
 
 <b><font color='orange'>[Award]</font><b/> 
-I was recognized as an [IMPRS-IS Scholar Spotlight](https://imprs.is.mpg.de/news/scholar-spotlight-bo-xiong) 🎉
+I was recognized as an [IMPRS-IS Scholar Spotlight](https://imprs.is.mpg.de/news/scholar-spotlight-bo-xiong) 
