@@ -5,4 +5,4 @@ inline: true
 ---
 
 <b><font color='Red'>[Paper]</font><b/>
-One short paper on [Biomedical Knowledge Fusion]() got accepted by [SIGIR'23](https://sigir.org/sigir2023/)
+One short paper on [Biomedical Knowledge Fusion]() got accepted to [SIGIR'23](https://sigir.org/sigir2023/)
