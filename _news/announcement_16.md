@@ -5,4 +5,4 @@ inline: true
 ---
 
 <b><font color='Violet'>[Visiting]</font><b/> 
-I finished my research exchange at [Babelscape](https://babelscape.com/) & [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Rome, Italy
+I finished my research exchange at [Babelscape](https://babelscape.com/) & [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home)
