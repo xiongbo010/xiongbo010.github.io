@@ -4,4 +4,4 @@ date: 2023-05-03 07:59:00-0400
 inline: true
 ---
 
-<b><font color='Red'>[Paper]</font><b/> Two papers on [knowledge representation learning]() got accepted to [ACL'23](https://2023.aclweb.org/)
+Two papers on [knowledge graphs]() got accepted to [ACL'23](https://2023.aclweb.org/)
