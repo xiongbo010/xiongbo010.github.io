@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about/
+permalink: /
 title: Bo Xiong
 subtitle: IMPRS-IS PhD candidate @ University of Stuttgart
 
