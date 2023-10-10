@@ -12,6 +12,7 @@ sort_menu: 1
 <br/>
 #### Tutorial
 
+<div class="publications">
 <!-- <br/> -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
