@@ -9,9 +9,10 @@ sort_menu: 1
 
 ### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
 
+<br/>
 #### Tutorial
 
-<br/>
+<!-- <br/> -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
       <h3 class="bibliography-year">2023</h3>
@@ -25,7 +26,7 @@ sort_menu: 1
 
 <div class="publications">
 
-<br/>
+<!-- <br/> -->
 {% for y in page.years %}
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
