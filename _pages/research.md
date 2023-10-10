@@ -12,7 +12,6 @@ sort_menu: 1
 #### Tutorial
 
 <br/>
-<!-- {% for y in page.years %} -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
       <h3 class="bibliography-year">2023</h3>
@@ -21,7 +20,6 @@ sort_menu: 1
       {% bibliography -f tutorial -q @*[year=2023]* %}
     </div>
   </div>
-<!-- {% endfor %} -->
 
 #### Conference and Journal
 
