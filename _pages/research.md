@@ -22,6 +22,7 @@ sort_menu: 1
       {% bibliography -f tutorial -q @*[year=2023]* %}
     </div>
   </div>
+  </div>
 
 #### Conference and Journal
 
