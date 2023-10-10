@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 years: [2023,2022,2020]
+tyears: [2023]
 nav: true
 sort_menu: 1
 ---
@@ -14,13 +15,13 @@ sort_menu: 1
 
 <div class="publications">
 <!-- <br/> -->
-{% for y in page.years %}
+{% for y in page.tyears %}
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">2023</h3>
+      <h3 class="bibliography-year">{{y}}</h3>
     </div>
     <div class="col-sm-11 p-0">
-      {% bibliography -f tutorial -q @*[year=2023]* %}
+      {% bibliography -f tutorial -q @*[year={{y}}]* %}
     </div>
   </div>
 {% endfor %}
