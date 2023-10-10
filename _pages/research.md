@@ -24,6 +24,7 @@ sort_menu: 1
     </div>
   </div>
 {% endfor %}
+</div>
 
 #### Conference and Journal
 
@@ -39,3 +40,4 @@ sort_menu: 1
     </div>
   </div>
 {% endfor %}
+</div>
