@@ -27,7 +27,7 @@ sort_menu: 1
 {% endfor %}
 </div>
 
-#### Conference and Journal
+#### Conference 
 
 <div class="publications">
 {% for y in page.years %}
