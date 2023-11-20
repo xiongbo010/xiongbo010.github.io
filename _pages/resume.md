@@ -19,7 +19,7 @@ sort_menu: 2
 ### PC Member/Reviewer/Organizers
 - **Journal**: TPAMI, TNNLS
 - **2024**: AAAI'24, ICLR'24, EACL'24 (ARR)
-- **2023**: NeurIPS'23, AAAI'23, WWW'23, IJCAI'23, ICML'23, ACL'23, IJCNN'23, EMNLP'23, CIKM'23 (industry track)
+- **2023**: NeurIPS'23, AAAI'23, WWW'23, IJCAI'23, ICML'23, ACL'23, IJCNN'23, EMNLP'23, CIKM'23
 - **2022**: ICML'22, NeurIPS'22, ICDM'22, LoG'22
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
