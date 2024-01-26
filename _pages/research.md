@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 years: [2024,2023,2022]
 tyears: [2023]
-pyears: [2023,2024]
+pyears: [2024,2023]
 nav: true
 sort_menu: 1
 ---
