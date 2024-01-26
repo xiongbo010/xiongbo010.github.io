@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-One paper on [nested fact embeddings]() got accepted at [AAAI'24](https://aaai.org/aaai-conference/)
+One paper on got accepted at [AAAI'24](https://aaai.org/aaai-conference/)
