@@ -15,14 +15,14 @@ My research lies at the intersection of machine learning and knowledge represent
 
 ##### Machine Learning 
 
-- **Machine Learning on Graphs [NeurIPS'22a, NeurIPS'22b]**, e.g., graph neural networks
-- **Geometric Representation Learning [NeurIPS'22a, KDD'22, ICDE'24]**, e.g., hyperbolic and Riemannian embeddings 
-- **Large Language Models (LLMs) [ArXiv'23]** and their applications in reasoning
+- **Machine learning on graphs [NeurIPS'22a, NeurIPS'22b]**, e.g., graph neural networks
+- **Geometric representation learning [NeurIPS'22a, KDD'22, ICDE'24]**, e.g., hyperbolic embeddings 
+- **Large language models (LLMs) [ArXiv'23]** and their applications in reasoning
 
 ##### Knowledge Representation
 
-- **Knowledge Graphs [KDD'22, ACL'23, SIGIR'23, WWW'22, ISWC'22, AAAI'24]**, including embeddings, construction, and reasoning
-- **Semantic Web and Ontologies [ISWC'22, ISWC'23]**, e.g., Description Logic and ontology embeddings
+- **Knowledge graphs [KDD'22, ACL'23, SIGIR'23, WWW'22, ISWC'22, AAAI'24]**, including embedding, construction, and reasoning
+- **Semantic Web and ontologies [ISWC'22, ISWC'23]**, e.g., Description Logic and ontology embeddings
 
 <br/>
 
