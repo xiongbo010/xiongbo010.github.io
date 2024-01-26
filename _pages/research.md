@@ -27,7 +27,7 @@ My research lies at the intersection of machine learning and knowledge represent
 
 ### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
 
-
+<br/>
 
 #### Tutorial
 <div class="publications">
