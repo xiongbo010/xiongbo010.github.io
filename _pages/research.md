@@ -16,10 +16,9 @@ My research lies at the intersection of machine learning and knowledge represent
 ##### Machine Learning 
 
 - **Machine learning on graphs** [NeurIPS'22a], e.g., graph neural networks
-- **Geometric representation learning** [NeurIPS'22a, KDD'22, ICDE'24], e.g., hyperbolic embeddings 
+- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., hyperbolic embeddings 
 - **Neuro-symbolic learning [NeurIPS'22b]**, i.e., combing machine learning with symbolic knowledge 
-- **Large language models (LLMs)** and their applications 
-- **Applications** [ICDE'24, SIGIR'23]: recommendation, healthcare, etc. 
+- **Language models [ICDE'24, SIGIR'23]** and their applications in recommendation, healthcare, etc. 
 
 ##### Knowledge Representation
 
