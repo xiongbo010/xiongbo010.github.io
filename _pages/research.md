@@ -21,7 +21,7 @@ My research lies at the intersection of machine learning and knowledge represent
 ##### Knowledge Representation
 
 - **Knowledge graphs** [KDD'22, ACL'23, SIGIR'23, WWW'22, ISWC'22, AAAI'24]: embedding, construction, and reasoning
-- **Neuro-symbolic learning** [NeurIPS'22b], i.e., combing machine learning with symbolic knowledge 
+- **Neuro-symbolic learning** [NeurIPS'22b], i.e., infusing knowledge and structure into machine learning
 - **Semantic Web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology embeddings
 
 
