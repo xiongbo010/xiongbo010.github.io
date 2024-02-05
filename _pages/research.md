@@ -15,14 +15,14 @@ My research lies at the intersection of machine learning and knowledge represent
 ##### Machine learning (on graphs & geometry)
 
 - **Machine learning on graphs** [NeurIPS'22a], e.g., graph neural networks
-- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., infusing geometric inductive biases in embeddings
+- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., infusing geometric inductive biases into embeddings
 
 ##### Knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, WWW'22, AAAI'24]: embedding, construction, and reasoning
 - **Neuro-symbolic learning** [NeurIPS'22b]: infusing knowledge and structure into machine learning
 - **Semantic Web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology embeddings
-- **Knowledge + language models** [SIGIR'23]: infusing knowledge in language models or vice versa
+- **Knowledge + language models** [SIGIR'23]: infusing knowledge into language models or vice versa
 
 
 <!-- ##### Neuro-symbolic learning -->
