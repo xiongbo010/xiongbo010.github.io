@@ -24,6 +24,8 @@ sort_menu: 2
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
 ### Invited Talks
+- **2024.02**: Invited Talk at IMPRS-IS Ph.D. Interview Symposium, Stuttgart, Germany.
+- **2024.01**: Research Seminar at TU Ostrava, Ostrava, Czech Republic.
 - **2022.11**: Research Seminar at Emory University, Georgia, USA.
 - **2022.10**: Research Seminar at VU Amsterdam, Amsterdam, The Netherlands. 
 
