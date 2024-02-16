@@ -14,7 +14,7 @@ My research lies at the intersection of machine learning and knowledge represent
 
 ##### Machine learning 
 
-- **Machine learning on graphs** [NeurIPS'22a], e.g., graph neural networks
+- **Learning on graphs** [NeurIPS'22a], e.g., graph neural networks
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., infusing geometric inductive biases into embeddings
 
 ##### Knowledge representation 
