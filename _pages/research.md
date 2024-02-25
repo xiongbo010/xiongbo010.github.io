@@ -10,12 +10,12 @@ sort_menu: 1
 
 ### Research Interests
 
-<!-- My research lies at the intersection of machine learning and knowledge  -->
+My research lies at the intersection of machine learning and knowledge representation
 
 ##### Machine learning 
 
 - **Learning on graph-structured data** [NeurIPS'22a], e.g., graph neural networks
-- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., infusing geometric inductive biases into embeddings
+- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting geometric inductive biases for embeddings
 - **Neuro-symbolic learning** [NeurIPS'22b]: infusing knowledge and structure into machine learning
 
 ##### Knowledge representation 
