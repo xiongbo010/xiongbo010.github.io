@@ -10,7 +10,7 @@ sort_menu: 1
 
 ### Research Interests
 
-My research lies at the intersection of machine learning and knowledge representation
+<!-- My research lies at the intersection of machine learning and knowledge  -->
 
 ##### Machine learning 
 
