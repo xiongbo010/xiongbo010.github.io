@@ -23,7 +23,7 @@ selected_papers: true
 I am a fina-year Ph.D. candidate at International Max Plank Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)) and the University of Stuttgart, Germany, under the supervision of [Prof. Steffen Staab](https://www.southampton.ac.uk/people/5xf8n2/professor-steffen-staab). My PhD was funded by the Marie Sklodowska-Curie PhD Fellowship.
 
 My research centres on machine learning with a special focus on modeling and understanding data with complex structure (e.g., social networks and knowledge graphs). 
-For this purpose, I’m combining fundamental research on geometric representation learning, graph embeddings, neuro-symbolic AI, and language modeling. 
+For this purpose, I’m combining fundamental research on geometric representation learning, graph/relational ML, neuro-symbolic AI, and foundation models. 
 
 
 
