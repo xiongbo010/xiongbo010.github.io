@@ -10,7 +10,9 @@ sort_menu: 1
 
 ### Research Interests
 
-Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" the world like humans. To achieve this, I focus on two main areas:
+Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" the world like humans. To achieve this, I focus on two primal areas:
+
+- **Relational machine learning** 
 
 ##### Relational machine learning 
 
@@ -20,7 +22,7 @@ Humans understand the world by establishing entities, concepts, and their mutual
 
 ##### Knowledge representation 
 
-- **Knowledge bases/graphs** [KDD'22, ACL'23, WWW'22, AAAI'24]: embedding, construction, and reasoning
+- **Knowledge graphs** [KDD'22, ACL'23, WWW'22, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology reasoning
 - **Knowledge + language models** [SIGIR'23]: infusing knowledge into language models or vice versa
 
