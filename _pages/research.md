@@ -11,19 +11,20 @@ sort_menu: 1
 
 ### Research Interests
 
-Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" how the world is interconnected. To achieve this, I am conducting fundamental research in two primary areas:
+Humans understand the world by establishing entities, concepts, and their mutual relationships. 
+My research aims to enable machines to "understand" how the world is interconnected. To achieve this, I am conducting fundamental research in two primary areas:
 
 ###### Graph/relational machine learning 
 
 - **Learning on graph-structured data** [NeurIPS'22a], e.g., graph neural networks
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
-- **Neuro-symbolic learning** [NeurIPS'22b]: infusing knowledge and structure into machine learning
+- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22]: infusing knowledge and structure into machine learning
 
 ###### Knowledge representation 
 
-- **Knowledge graphs** [KDD'22, ACL'23, WWW'22, AAAI'24]: embedding, construction, and reasoning
+- **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology reasoning
-- **Knowledge-infused language models** [SIGIR'23]: infusing knowledge into language models or vice versa
+- **Knowledge-infused language models**: infusing knowledge into language models or vice versa
 
 
 
