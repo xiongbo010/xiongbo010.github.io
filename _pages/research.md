@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 years: [2024,2023,2022]
 tyears: [2023]
-tyears: [2024,2023]
+pyears: [2024,2023]
 nav: true
 sort_menu: 1
 ---
@@ -68,7 +68,7 @@ Humans understand the world by establishing entities, concepts, and their mutual
 {% endfor %}
 </div>
 
-#### Pre-print 
+#### Preprint 
 
 <div class="publications">
 {% for y in page.pyears %}
