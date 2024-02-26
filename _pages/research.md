@@ -12,15 +12,13 @@ sort_menu: 1
 
 Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" the world like humans. To achieve this, I focus on two primal areas:
 
-- **Relational machine learning** 
-
-##### Relational machine learning 
+###### Relational machine learning 
 
 - **Learning on graph-structured data** [NeurIPS'22a], e.g., graph neural networks
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
 - **Neuro-symbolic learning** [NeurIPS'22b]: infusing knowledge and structure into machine learning
 
-##### Knowledge representation 
+###### Knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, WWW'22, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology reasoning
