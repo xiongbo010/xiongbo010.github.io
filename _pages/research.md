@@ -10,7 +10,7 @@ sort_menu: 1
 
 ### Research Interests
 
-Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" how the world is interconnected. To achieve this, I am combining fundamental research on two primal areas:
+Humans understand the world by establishing entities, concepts, and their mutual relationships. My research aims to enable machines to "understand" how the world is interconnected. To achieve this, I am conducting fundamental research in two primary areas:
 
 ###### Graph/relational machine learning 
 
