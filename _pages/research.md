@@ -16,15 +16,15 @@ My research aims to enable machines to "understand" how the world is interconnec
 
 ###### Graph/relational machine learning 
 
-- **Learning on graph-structured data** [NeurIPS'22a], e.g., graph neural networks
-- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
+- **Learning on structured data** [NeurIPS'22a,KDD'22], e.g., graph neural networks
 - **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22]: infusing knowledge and structure into machine learning
+- **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
 
 ###### Knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology reasoning
-- **Knowledge-infused language models**: infusing knowledge into language models or vice versa
+- **Knowledge meets language models** [Arxiv'24a, Arxiv'24b]: infusing knowledge into language models or vice versa
 
 
 
