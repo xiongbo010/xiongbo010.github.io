@@ -21,7 +21,7 @@ To achieve this, I am conducting fundamental research in two primary areas:
 - **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22]: infusing structured knowledge into machine learning
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
 
-###### Neuro-symbolic knowledge representation & reasoning
+###### Neuro-symbolic knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description Logic and ontology reasoning
