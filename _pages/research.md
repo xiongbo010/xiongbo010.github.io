@@ -15,17 +15,17 @@ Humans understand the world by establishing entities, concepts, and their mutual
 My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
 To achieve this, I am conducting fundamental research in two primary areas:
 
-###### Graph/relational machine learning 
+###### Machine learning for structured/relational data
 
-- **Learning on graph-structured data** [NeurIPS'22a,KDD'22]
-- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22]: imposing structure and knowledge in deep learning
+- **Learning on graph-structured data** [NeurIPS'22a,ACL'23,AAAI'24]
+- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in deep learning
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
 
 ###### Neural & symbolic knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description logic and ontology reasoning
-- **Knowledge meets large language models** [NAACL'24, Arxiv'24]: combining structured knowledge with language models
+- **Symbolic knowledge meets large language models** [NAACL'24, Arxiv'24]: combining structured knowledge with language models
 - **Applications**: healthcare, biomedicine, etc. 
 
 
