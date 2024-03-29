@@ -26,7 +26,7 @@ To achieve this, I am conducting fundamental research in two primary areas:
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description logic and ontology reasoning
 - **Knowledge meets large language models** [NAACL'24, Arxiv'24]: combining structured knowledge with language models
-- **and their applications in health & biomedicine**
+- **Applications**: healthcare, biomedicine, etc. 
 
 
 
