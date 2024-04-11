@@ -10,6 +10,7 @@ sort_menu: 2
 
 - **2021/02-Present**: PhD student, Intl. Max Plank Research School for Intelligent Systems
 - **2020/09-Present**: Marie Curie Early Stage Researcher, University of Stuttgart, Germany
+- **2022/10-2023/02**: Visiting Researcher, Sapienza University of Rome, hosted by Prof. Roberto Navigli
 - **2022/04-2022/08**: Visiting Researcher, Maastricht University, hosted by [Prof. Michel Dumontier](https://scholar.google.com/citations?user=vyofzOcAAAAJ&hl=en)
 - **2020/04-2020/09**: Research Intern, Huawei Noah's Ark Lab
 - **2019/07-2020/01**: Research Intern, Microsoft Research Asia, hosted by [Dr. Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/)
