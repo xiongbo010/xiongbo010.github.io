@@ -18,7 +18,7 @@ To achieve this, I am conducting fundamental research in two primary areas:
 ###### Machine learning for structured/relational data
 
 - **Learning on graph-structured data** [NeurIPS'22a,ACL'23,AAAI'24]
-- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in deep learning
+- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
 
 ###### Neural & symbolic knowledge representation 
