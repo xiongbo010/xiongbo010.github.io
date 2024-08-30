@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-I have successfully defended my PhD with summa cum laude (highest distinction)
+I successfully defended my Ph.D. with summa cum laude (highest distinction)
