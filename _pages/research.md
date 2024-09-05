@@ -57,20 +57,6 @@ To achieve this, I am conducting fundamental research in two primary areas:
 <!-- {% endfor %} -->
 </div>
 
-#### Preprint 
-
-<div class="publications">
-<!-- {% for y in page.pyears %} -->
-  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
-    <div class="col-sm-1 mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">{{y}}</h3>
-    </div>
-    <div class="col-sm-11 p-0">
-      {% bibliography -f preprint -q @*[year={{y}}]* %}
-    </div>
-  </div>
-<!-- {% endfor %} -->
-</div>
 
 #### Conference & Journal
 
@@ -78,7 +64,7 @@ To achieve this, I am conducting fundamental research in two primary areas:
 <!-- {% for y in page.years %} -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">{{y}}</h3>
+      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
     </div>
     <div class="col-sm-11 p-0">
       {% bibliography -f papers -q @*[year={{y}}]* %}
@@ -87,8 +73,20 @@ To achieve this, I am conducting fundamental research in two primary areas:
 <!-- {% endfor %} -->
 </div>
 
+#### Preprint 
 
-
+<div class="publications">
+<!-- {% for y in page.pyears %} -->
+  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
+    <div class="col-sm-1 mt-2 p-0 pr-1">
+      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
+    </div>
+    <div class="col-sm-11 p-0">
+      {% bibliography -f preprint -q @*[year={{y}}]* %}
+    </div>
+  </div>
+<!-- {% endfor %} -->
+</div>
 
 
 
