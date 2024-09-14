@@ -3,6 +3,8 @@ layout: page
 permalink: /research/
 title: Research
 years: [2024,2023,2022]
+byears: [2024]
+dyears: [2024]
 tyears: [2023]
 pyears: [2024,2023]
 nav: true
@@ -51,7 +53,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 #### Book Chapter 
 
 <div class="publications">
-<!-- {% for y in page.pyears %} -->
+<!-- {% for y in page.byears %} -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
       <!-- <h3 class="bibliography-year">{{y}}</h3> -->
@@ -112,7 +114,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 #### Dissertation
 
 <div class="publications">
-<!-- {% for y in page.pyears %} -->
+<!-- {% for y in page.dyears %} -->
   <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
     <div class="col-sm-1 mt-2 p-0 pr-1">
       <!-- <h3 class="bibliography-year">{{y}}</h3> -->
