@@ -11,22 +11,28 @@ sort_menu: 1
 
 ### Research Interests
 
-Humans understand the world by establishing entities, concepts, and their mutual connections. 
-My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
-To achieve this, I am conducting fundamental research in two primary areas:
+Humans understand the world by establishing entities, concepts, and their mutual connections. My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
+To achieve this, I am conducting fundamental research in the following areas:
 
-###### Machine learning for structured/relational data
 
-- **Learning on graph-structured data** [NeurIPS'22a,ACL'23,AAAI'24]
-- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
+###### Machine learning on relational data
+
+- **Learning on graph-structured data** [NeurIPS'22a,ACL'23,AAAI'24, CIKM'24]
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
+- **Application** in healthcare and biomedicine, etc. [AMIA'24, SIGIR'23]
+
 
 ###### Neural & symbolic knowledge representation 
 
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description logic and ontology reasoning
+
+###### Interpretable and reliable AI
+
+- **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
 - **Symbolic knowledge meets large language models** [NAACL'24, Arxiv'24]: combining structured knowledge with language models
-- **Applications**: healthcare, biomedicine, etc. 
+
+
 
 
 
@@ -41,6 +47,21 @@ To achieve this, I am conducting fundamental research in two primary areas:
 
 <br/>
 
+
+#### Book Chapter 
+
+<div class="publications">
+<!-- {% for y in page.pyears %} -->
+  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
+    <div class="col-sm-1 mt-2 p-0 pr-1">
+      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
+    </div>
+    <div class="col-sm-11 p-0">
+      {% bibliography -f book -q @*[year={{y}}]* %}
+    </div>
+  </div>
+<!-- {% endfor %} -->
+</div>
 
 #### Tutorial
 <div class="publications">
@@ -83,6 +104,21 @@ To achieve this, I am conducting fundamental research in two primary areas:
     </div>
     <div class="col-sm-11 p-0">
       {% bibliography -f preprint -q @*[year={{y}}]* %}
+    </div>
+  </div>
+<!-- {% endfor %} -->
+</div>
+
+#### Dissertation
+
+<div class="publications">
+<!-- {% for y in page.pyears %} -->
+  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
+    <div class="col-sm-1 mt-2 p-0 pr-1">
+      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
+    </div>
+    <div class="col-sm-11 p-0">
+      {% bibliography -f thesis -q @*[year={{y}}]* %}
     </div>
   </div>
 <!-- {% endfor %} -->
