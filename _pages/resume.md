@@ -32,6 +32,7 @@ sort_menu: 2
 - **2022.10**: Research Seminar at VU Amsterdam, Amsterdam, The Netherlands
 
 ### Teaching
+- **2024**: Teaching Assistant, Deep Learning Lab, USTUTT
 - **2023/24**: Teaching Assistant, Machine Learning with Graphs, USTUTT
 - **2023/24**: Teaching Assistant, Deep Learning Lab, USTUTT
 - **2023**: Teaching Assistant, Knowledge Graphs, USTUTT
@@ -40,9 +41,12 @@ sort_menu: 2
 
 
 ### Co-supervision
-- Mr. Akshat Gupta, master student in USTUTT
-- Ms. Yi Wang, master student in USTUTT (now PhD student in USTUTT)
-- Mr. Leon Matzner, bachelor student in USTUTT
+- Mr. Mayank Jha, master student at USTUTT
+- Ms. Leqi Xu, master student at USTUTT
+- Mr. Chong Sheng, master student at USTUTT 
+- Mr. Akshat Gupta, master student at USTUTT
+- Ms. Yi Wang, master student at USTUTT (now PhD student in USTUTT)
+- Mr. Leon Matzner, bachelor student at USTUTT
 
 ### Selected Awards
 - **2023**: IMPRS-IS Spotlight Scholar
