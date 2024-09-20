@@ -4,7 +4,7 @@
 
 # name: Bo Xiong
 title: Bo Xiong
-email: bo.xiong@ipvs.uni-stuttgart.de
+email: bo.xiong@ki.uni-stuttgart.de
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -102,7 +102,7 @@ collections:
   #   output: true
   #   permalink: /projects/:path/
 
-news_limit: 10
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

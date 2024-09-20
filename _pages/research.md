@@ -11,8 +11,6 @@ nav: true
 sort_menu: 1
 ---
 
-### Research Interests
-
 Humans understand the world by establishing entities, concepts, and their mutual connections. My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
 To achieve this, I am conducting fundamental research in the following areas:
 
@@ -81,7 +79,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 </div>
 
 
-#### Conference & Journal
+#### Peer-Reviewed Research Paper
 
 <div class="publications">
 <!-- {% for y in page.years %} -->
