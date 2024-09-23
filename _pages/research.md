@@ -19,7 +19,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 
 - **Learning on graph-structured data** [NeurIPS'22a,ACL'23,AAAI'24, CIKM'24]
 - **Geometric representation learning** [NeurIPS'22a, NeurIPS'22b, KDD'22], e.g., exploiting data geometry for machine learning
-- **Application** in healthcare and biomedicine, etc. [AMIA'24, SIGIR'23]
+- **ML for healthcare and biomedicine**, etc. [AMIA'24, SIGIR'23]
 
 
 ###### Neural & symbolic knowledge representation 
@@ -30,7 +30,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 ###### Interpretable and reliable AI
 
 - **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
-- **Symbolic knowledge meets large language models** [NAACL'24, EMNLP'24]: combining structured knowledge with language models
+- **Knowledge empowered LLMs** [NAACL'24, EMNLP'24]: combining structured knowledge with language models
 
 
 
