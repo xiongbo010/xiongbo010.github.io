@@ -30,7 +30,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 ###### Interpretable and reliable AI
 
 - **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
-- **Symbolic knowledge meets large language models** [NAACL'24, Arxiv'24]: combining structured knowledge with language models
+- **Symbolic knowledge meets large language models** [NAACL'24, EMNLP'24]: combining structured knowledge with language models
 
 
 
