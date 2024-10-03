@@ -1,17 +1,19 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /publication/
+title: Publication
 years: [2024,2023,2022,2021]
 byears: [2024]
 dyears: [2024]
 tyears: [2023]
 pyears: [2024,2023]
+jyears: [2024,2021]
+wyears: [2024]
 nav: true
 sort_menu: 1
 ---
 
-Humans understand the world by establishing entities, concepts, and their mutual connections. My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
+<!-- Humans understand the world by establishing entities, concepts, and their mutual connections. My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 
 To achieve this, I am conducting fundamental research in the following areas:
 
 
@@ -30,18 +32,10 @@ To achieve this, I am conducting fundamental research in the following areas:
 ###### Interpretable and reliable AI
 
 - **Neuro-symbolic learning** [NeurIPS'22b, ISWC'22, ICDE'24]: imposing structure and knowledge in machine learning
-- **Knowledge empowered LLMs** [NAACL'24, EMNLP'24]: combining structured knowledge with language models
+- **Knowledge empowered LLMs** [NAACL'24, EMNLP'24]: combining structured knowledge with language models -->
 
 
 
-
-
-
-<!-- ##### Neuro-symbolic learning -->
-
-
-
-<br/>
 
 ### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
 
@@ -64,6 +58,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 </div>
 
 #### Tutorial
+
 <div class="publications">
 <!-- <br/> -->
 <!-- {% for y in page.tyears %} -->
@@ -79,7 +74,8 @@ To achieve this, I am conducting fundamental research in the following areas:
 </div>
 
 
-#### Peer-Reviewed Research Paper
+
+#### Conference & Journal
 
 <div class="publications">
 <!-- {% for y in page.years %} -->
@@ -93,6 +89,9 @@ To achieve this, I am conducting fundamental research in the following areas:
   </div>
 <!-- {% endfor %} -->
 </div>
+
+
+
 
 #### Preprint 
 
