@@ -25,9 +25,9 @@ I am a final-year Ph.D. candidate at the [University of Stuttgart]() and the [In
 
 I conduct research in AI and ML with a special emphasis on advancing the **representation** of human knowledge. In particular, I explore two core paradigms of knowledge representation:
 <br>
-1) **Symbolic representation**: Knowledge graphs, ontologies, web, logic/rules, etc. 
+1) **Symbolic representation**: Knowledge graphs, ontology, logic, web, etc. 
 <br>
-2) **Neural representation**: Language models, graph embeddings. 
+2) **Neural representation**: Large language models, graph embeddings. 
 
 By bridging these two forms of representations (neuro-symbolic), I aim to develop **reliable** and **interpretable** AI systems allowing for learning, reasoning, and adapting into real domains.
 
