@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: blank
-subtitle: PhD candidate @ IMPRS-IS & University of Stuttgart
+subtitle: Postdoc @ Stanford University
 
 profile:
   align: right
