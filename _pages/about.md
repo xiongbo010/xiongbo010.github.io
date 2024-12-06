@@ -6,7 +6,7 @@ subtitle: Postdoc @ Stanford University
 
 profile:
   align: right
-  image: boxiong.png
+  image: xiongbo.jpeg
   address: >
     <p> </p>
     <p> </p>
