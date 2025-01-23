@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
+
 group :jekyll_plugins do
+    gem 'github-pages'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
@@ -8,7 +10,6 @@ group :jekyll_plugins do
     gem 'jekyll-github-metadata'
     gem 'jekyll-imagemagick'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
