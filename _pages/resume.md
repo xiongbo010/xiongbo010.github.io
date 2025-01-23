@@ -7,9 +7,9 @@ nav: true
 sort_menu: 2
 ---
 ### Experience
-
-- **2021/02-Present**: PhD student, Intl. Max Plank Research School for Intelligent Systems
-- **2020/09-Present**: Marie Curie Early Stage Researcher, University of Stuttgart, Germany
+- **2024/12-Present**: Postdoc, Stanford University, USA
+- **2021/02-2024/11**: PhD student, Intl. Max Plank Research School for Intelligent Systems
+- **2020/09-2023/08**: Marie Curie Early Stage Researcher, University of Stuttgart, Germany
 - **2022/10-2023/02**: Visiting Researcher, Sapienza University of Rome, hosted by Prof. Roberto Navigli
 - **2022/04-2022/08**: Visiting Researcher, Maastricht University, hosted by [Prof. Michel Dumontier](https://scholar.google.com/citations?user=vyofzOcAAAAJ&hl=en)
 - **2020/04-2020/09**: Research Intern, Huawei Noah's Ark Lab
