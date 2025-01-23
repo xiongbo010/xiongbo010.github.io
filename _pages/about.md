@@ -17,7 +17,7 @@ profile:
 
 news: true
 social: true
-selected_papers: true
+selected_papers: false
 ---
 
 I am a [Postdoctoral Scholar](https://profiles.stanford.edu/352663) in AI at [Stanford University](), under the supervision of [Prof. Mark Musen](https://scholar.google.com/citations?user=FmMT4CcAAAAJ&hl=en). Prior to that, I received my Ph.D. (with summa cum laude) in computer science at [University of Stuttgart](), Germany and the [Intl. Max Plank Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), under the supervision of [Prof. Steffen Staab](https://www.southampton.ac.uk/people/5xf8n2/professor-steffen-staab). 
