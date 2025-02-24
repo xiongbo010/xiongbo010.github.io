@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Several papers got accepted at [ECAI'24](), [CIKM'24](), [AMIA'24](), [LLM Cognition@ICML'24]()
+Several papers got accepted by [ECAI'24](), [CIKM'24](), [AMIA'24](), [LLM Cognition@ICML'24]()

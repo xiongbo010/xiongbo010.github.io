@@ -203,6 +203,13 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
+    # preprint.bib
+    # tutorial.bib
+    # book.bib
+    # thesis.bib
+    # journal.bib
+    # selected.bib
+    # workshop.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.

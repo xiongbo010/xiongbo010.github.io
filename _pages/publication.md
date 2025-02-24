@@ -28,6 +28,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 
 - **Knowledge graphs** [KDD'22, ACL'23, AAAI'24]: embedding, construction, and reasoning
 - **Semantic web and ontologies** [ISWC'22, ISWC'23]: Description logic and ontology reasoning
+sudo gem install jekyll
 
 ###### Interpretable and reliable AI
 
