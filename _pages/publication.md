@@ -3,7 +3,7 @@ layout: page
 permalink: /publication/
 title: Publication
 years: [2025,2024,2023,2022]
-byears: [2024]
+byears: [2025,2024]
 dyears: [2024]
 tyears: [2023]
 pyears: [2024,2023]
@@ -37,12 +37,21 @@ sudo gem install jekyll
 
 
 
+#### Book Chapter
 
-### Selected Publications ([google scholar](https://scholar.google.com/citations?user=lmBXicIAAAAJ))
-
-<br/>
-
-
+<div class="publications">
+<!-- <br/> -->
+<!-- {% for y in page.byears %} -->
+  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
+    <div class="col-sm-1 mt-2 p-0 pr-1">
+      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
+    </div>
+    <div class="col-sm-11 p-0">
+      {% bibliography -f book -q @*[year={{y}}]* %}
+    </div>
+  </div>
+<!-- {% endfor %} -->
+</div>
 
 #### Tutorial
 
@@ -77,23 +86,6 @@ sudo gem install jekyll
 <!-- {% endfor %} -->
 </div>
 
-
-
-
-#### Preprint 
-
-<div class="publications">
-<!-- {% for y in page.pyears %} -->
-  <div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
-    <div class="col-sm-1 mt-2 p-0 pr-1">
-      <!-- <h3 class="bibliography-year">{{y}}</h3> -->
-    </div>
-    <div class="col-sm-11 p-0">
-      {% bibliography -f preprint -q @*[year={{y}}]* %}
-    </div>
-  </div>
-<!-- {% endfor %} -->
-</div>
 
 #### Dissertation
 
