@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri', '~> 1.15.0' 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-scholar', '~> 5.16'  # 使用本地已有的 5.16.0 版本
+gem 'jekyll', '~> 3.9'
+gem 'kramdown-parser-gfm'  # 添加这行
 
 group :jekyll_plugins do
-    gem "jekyll"
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -16,6 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
