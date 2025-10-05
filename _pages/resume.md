@@ -4,7 +4,7 @@ permalink: /resume/
 title: Resume
 subtitle: Collection of some presentations and talks I have given in the past.
 nav: true
-sort_menu: 2
+sort_menu: 3
 ---
 
 <!-- ### Experience

@@ -10,7 +10,7 @@ pyears: [2024,2023]
 jyears: [2024,2021]
 wyears: [2024]
 nav: true
-sort_menu: 1
+sort_menu: 2
 ---
 
 <!-- Humans understand the world by establishing entities, concepts, and their mutual connections. My research aims to understand human knowledge and teach machines to "understand" how the world is interconnected. 

@@ -3,8 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-sort_menu: 2
-nav_order: 2
+sort_menu: 1
 ---
 
 My research lies at the intersection of **neural and symbolic AI**, integrating advances in **deep learning** and **large language models (LLMs)** with structured **knowledge representations** including **knowledge graphs** and **ontologies**. I develop AI systems that are not only powerful in prediction but also **reliable**, **interpretable**, and **robustly generalizable** by design, ensuring that they can be trusted in high-stakes domains such as **biomedicine and healthcare**.
