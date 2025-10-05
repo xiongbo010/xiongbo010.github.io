@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll with Scholar
 
 on:
   push:
@@ -6,16 +6,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: write
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,27 +18,17 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'  # 改回 2.7
+          ruby-version: '2.7'
           bundler-cache: true
       
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      
-      - name: Build with Jekyll
+      - name: Build site
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
       
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          force_orphan: true
