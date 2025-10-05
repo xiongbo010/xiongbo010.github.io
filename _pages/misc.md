@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resume/
-title: Resume
+permalink: /misc/
+title: Misc.
 subtitle: Collection of some presentations and talks I have given in the past.
 nav: true
 sort_menu: 3
