@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'nokogiri', '~> 1.15.0' 
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-scholar', '~> 5.16'  # 使用本地已有的 5.16.0 版本
+
 group :jekyll_plugins do
     gem "jekyll"
     gem 'jekyll-archives'
@@ -10,9 +14,6 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-sitemap'
-    gem 'nokogiri', '~> 1.15.0' 
-    gem 'github-pages', group: :jekyll_plugins
-    gem 'jekyll-scholar', '~> 5.16'  # 使用本地已有的 5.16.0 版本
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
