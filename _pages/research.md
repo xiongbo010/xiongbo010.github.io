@@ -41,7 +41,7 @@ To achieve this, I conduct fundamental research in the following areas:
 **Neuro-symbolic learning** — Combining neural networks with symbolic reasoning by imposing structure and prior knowledge in machine learning models.
 <br>*Representative work: [NeurIPS'22b](link), [ISWC'22](link), [ICDE'24](link)*
 
-**ML for healthcare and biomedicine** — Applying machine learning techniques to medical and healthcare domains.
+**AI for healthcare and biomedicine** — Applying machine learning techniques to medical and healthcare domains.
 <br>*Representative work: [ICML'25](),  [AMIA'24](), [SIGIR'23]()*
 
 
