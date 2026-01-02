@@ -37,6 +37,7 @@ sort_menu: 3
 - **2021**: WWW'21 (sub-reviwer), K-CAP'21 (external)
 
 ### Invited Talks
+- **2025.12**: IBM Research - Almaden Lab, San Jose, USA
 - **2025.05**: GI Dissertation Prize Colloquium, Dagstuhl, Germany
 - **2024.03**: Invited Talk at University of Edinburgh, Edinburgh, UK
 - **2024.02**: Invited Talk at IMPRS-IS Ph.D. Interview Symposium, Stuttgart, Germany
