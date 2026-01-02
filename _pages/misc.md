@@ -38,6 +38,7 @@ sort_menu: 3
 
 ### Invited Talks
 - **2025.12**: IBM Research - Almaden Lab, San Jose, USA
+- **2025.12**: NeurIPS NEGAL Workshop 2025, San Diego, USA
 - **2025.05**: GI Dissertation Prize Colloquium, Dagstuhl, Germany
 - **2024.03**: Invited Talk at University of Edinburgh, Edinburgh, UK
 - **2024.02**: Invited Talk at IMPRS-IS Ph.D. Interview Symposium, Stuttgart, Germany
