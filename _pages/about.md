@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: blank
-subtitle: Postdoc @ Stanford University
+subtitle: Assistant Professor @ Iowa State University
 
 profile:
   align: right
@@ -20,9 +20,7 @@ social: true
 selected_papers: false
 ---
 
-I am a [Postdoctoral Scholar](https://profiles.stanford.edu/352663) in AI at [Stanford University](), under the supervision of [Prof. Mark Musen](https://scholar.google.com/citations?user=FmMT4CcAAAAJ&hl=en). Prior to that, I received my Ph.D. (with summa cum laude) in computer science at [University of Stuttgart](), Germany and the [Intl. Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), under the supervision of [Prof. Steffen Staab](https://www.southampton.ac.uk/people/5xf8n2/professor-steffen-staab). 
-My PhD was funded by the [Marie Skłodowska-Curie PhD Fellowship](). I was an associate member of the [TrustAGI Lab](https://trust-agi.github.io/), advised by [Prof. Shirui Pan](). I have published 30+ papers and/or served as PC in premier AI conferences such as NeurIPS, ICML, ICLR, KDD, ACL, WWW, EMNLP, AAAI, etc. My research has been awarded the Best Student Paper Award of ISWC'22, SWSA Distinguished Dissertation Award 2025, and GI Dissertation Award 2024. 
-
+Bo Xiong is an Assistant Professor of Computer Science at Iowa State University, where he directs a lab focused on neuro-symbolic AI that bridges neural learning with symbolic knowledge representation and reasoning. Previously, he was a [Postdoctoral Researcher](https://profiles.stanford.edu/352663) at Stanford University under the supervision of [Prof. Mark Musen](https://scholar.google.com/citations?user=FmMT4CcAAAAJ&hl=en). He received his Ph.D. summa cum laude from the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/) and the University of Stuttgart under the supervision of [Prof. Steffen Staab](https://www.southampton.ac.uk/people/5xf8n2/professor-steffen-staab), supported by a Marie Skłodowska-Curie Fellowship. His work has received the ISWC 2022 Best Student Paper Award, the 2025 SWSA Distinguished Dissertation Award, and the 2024 GI Dissertation Award.
 
 
 
