@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri', '~> 1.15.0' 
-gem 'jekyll', '~> 3.9'
+gem 'nokogiri', '~> 1.18.0'
+gem 'jekyll', '~> 4.3'
 gem 'kramdown-parser-gfm'  # 添加这行
 
 group :jekyll_plugins do
@@ -15,7 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
-    gem 'jekyll-scholar'
+    gem 'jekyll-scholar', '~> 7.3'
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
