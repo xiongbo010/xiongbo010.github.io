@@ -1,31 +1,21 @@
-# KARD Lab website
+# Bo Xiong / KARD Lab website
 
-Knowledge and Reasoning for Discovery Lab — Iowa State University.
+Live site: https://boxiong.io/
 
-Static HTML/CSS website, ready for GitHub Pages. No build step or dependencies.
+The new static academic website is published from **`kard-live`**, repository root. Edit this branch for production changes. Keep `CNAME` (`boxiong.io`) and `.nojekyll` in place. No build step is required.
 
-## Publish
+The independent preview repository is https://github.com/xiongbo010/kard-lab, published at https://boxiong.io/kard-lab/.
 
-1. Create a GitHub repository (for example `kard-lab`).
-2. Upload all files in this folder to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select **main** and **/ (root)**, then Save.
+## Previous website backups
 
-The project URL will be `https://<owner>.github.io/<repository>/`.
-All site links are relative, so project Pages subpaths work without changes.
-Do not set a custom domain unless you intend to change DNS.
+- `backup/pre-kard-source-2026-11-06`: original Jekyll source, commit `e9a9f474d944de50db1a5de8bbefc2f83efe4f28`.
+- `backup/pre-kard-published-2026-11-06`: previous gh-pages branch, commit `5b4a1a57c81d6dd613107bb7d3f287bab21622de`.
+- Original `master` and `gh-pages` branches are retained.
 
-## Edit content
+To roll back to the old branch-based site, select `gh-pages` / root in Settings → Pages. The original source and its workflow are also retained for rebuilding the old Jekyll site.
 
-- `index.html`: biography, research interests and news
-- `research.html`: research directions
-- `people.html`: people and researcher profiles
-- `publications.html`: papers and author markers
-- `teaching.html`: courses
-- `service.html`: professional service
-- `join.html`: recruiting
-- `style.css`: appearance
-- `assets/`: images and logo
+## Pages
 
-`lab.html` redirects older links to `people.html`.
+`index.html`, `research.html`, `publications.html`, `people.html`, `teaching.html`, `service.html`, and `join.html`.
+
+Legacy folders and their assets are retained so existing publication detail links keep working.
