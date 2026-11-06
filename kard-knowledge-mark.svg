@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+<title>KARD Lab knowledge structure</title>
+<g stroke="#242424" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 9 12 31l20 24 20-24L32 9ZM12 31h40M32 9v46"/>
+</g>
+<circle cx="32" cy="9" r="5.5" fill="#C8102E"/>
+<circle cx="12" cy="31" r="5.5" fill="#F1BE48" stroke="#242424" stroke-width="1.5"/>
+<circle cx="52" cy="31" r="5.5" fill="#F1BE48" stroke="#242424" stroke-width="1.5"/>
+<circle cx="32" cy="55" r="5.5" fill="#242424"/>
+<circle cx="32" cy="31" r="6" fill="#C8102E" stroke="#FFFFFF" stroke-width="1.5"/>
+</svg>
